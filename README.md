@@ -1,4 +1,4 @@
-# Appliance Mender Tracker
+
 
 A modern web application for managing appliance repair services, built with React, TypeScript, and Supabase.
 
